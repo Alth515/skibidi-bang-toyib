@@ -1,0 +1,5 @@
+/* Optional global styles if you want to import them in main.js
+   (Not strictly required for this tiny project) */
+
+* { box-sizing: border-box; }
+html, body, #app { height: 100%; }
