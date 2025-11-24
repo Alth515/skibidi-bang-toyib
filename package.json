@@ -1,5 +1,6 @@
 {
   "name": "skibidi-bang-toyib",
+  "type": "module",
   "version": "0.1.0",
   "dependencies": {
     "svelte": "^5.43.14"
